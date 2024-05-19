@@ -28,7 +28,9 @@ URL to create a work item(issue) is
     }'
 
 ## Output of Creating a work item using DevRev Api
+
 ![ss1](https://github.com/Chikku-bhat/Dev_rev_api_assignment/assets/73264973/0c7feb16-95c5-4a13-ad91-475f8daf9a02)
+
 ![ss2](https://github.com/Chikku-bhat/Dev_rev_api_assignment/assets/73264973/77f1f955-89e0-4e27-b96c-1a29fc425006)
 
 
